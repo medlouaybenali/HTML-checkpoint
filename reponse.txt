@@ -1,0 +1,2 @@
+-i fixed the colspan attribute where it need to be 4 instead of 3 and i Added the missing rows for the images with a "meant to be"
+empty src attribute of the images so it shows the value of the alt attribute.
